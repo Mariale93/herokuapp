@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Administration hospital system" skipped="0" tests="3" time="65.97" timestamp="2019-10-25 02:50:16"><testcase name="register doctor"><error message="Expected condition failed: waiting for By.xpath: //p[contains(text(),'Datos guardados correctamente.')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'&#10;System info: host: 'CHMEPPF0T3KVV', ip: '172.17.27.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'&#10;Driver info: driver.version: unknown" type="java.lang.AssertionError">Expected condition failed: waiting for By.xpath: //p[contains(text(),'Datos guardados correctamente.')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'CHMEPPF0T3KVV', ip: '172.17.27.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for By.xpath: //p[contains(text(),'Datos guardados correctamente.')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'CHMEPPF0T3KVV', ip: '172.17.27.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: unknown&#13;
+co.com.choucair.certification.herokuapp.stepsdefinitions.HerokuApp.sheWillVerifyOnTheScreenTheMessageDatosGuardadosCorrectamente(HerokuApp.java:34)&#13;
+✽.She will verify on the screen the message Datos guardados correctamente.(src/test/resources/feature/herokuapp.feature:9)&#13;
+</system-err></testcase><testcase name="register patient"><error message="Expected condition failed: waiting for By.xpath: //p[contains(text(),'Datos guardados correctamente.')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'&#10;System info: host: 'CHMEPPF0T3KVV', ip: '172.17.27.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'&#10;Driver info: driver.version: unknown" type="java.lang.AssertionError">Expected condition failed: waiting for By.xpath: //p[contains(text(),'Datos guardados correctamente.')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'CHMEPPF0T3KVV', ip: '172.17.27.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for By.xpath: //p[contains(text(),'Datos guardados correctamente.')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'CHMEPPF0T3KVV', ip: '172.17.27.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: unknown&#13;
+co.com.choucair.certification.herokuapp.stepsdefinitions.HerokuApp.sheWillVerifyOnTheScreenTheMessageDatosGuardadosCorrectamente(HerokuApp.java:34)&#13;
+✽.She will verify on the screen the message Datos guardados correctamente.(src/test/resources/feature/herokuapp.feature:17)&#13;
+</system-err></testcase><testcase name="to do hospital appointment"/></testsuite>
